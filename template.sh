@@ -1,15 +1,19 @@
-# Creating directory structure
-mkdir -p /path/to/directory/subdirectory    
-mkdir -p src
+#!/bin/bash
 
-# creeating a file in the src directory
+# Create main directory structure
+mkdir -p src
+mkdir -p research
+
+# Create files in the src directory
 touch src/__init__.py
-touch scr/hello.py
-touch src/prompt.py 
+touch src/helper.py
+touch src/prompt.py
+
+# Create project-level files
 touch .env
 touch setup.py
 touch app.py
 touch requirements.txt
 touch research/trials.ipynb
 
-echo "Directory structure and files created successfully."
+echo "✅ Directory structure and files created successfully."
