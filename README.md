@@ -9,7 +9,7 @@ An AI-powered chatbot that can answer medical questions by processing uploaded P
 - ☁️ **AWS** for optional deployment
 
 ---
-
+## Rajeshkm.709@gmail.com
 ## 🚀 Features
 
 - 📄 Upload medical PDFs and ask questions about them
@@ -19,7 +19,7 @@ An AI-powered chatbot that can answer medical questions by processing uploaded P
 - 🌐 API-based structure for front-end or chat UI integration
 
 ---
-
+## Rajeshkm.709@gmail.com
 ## 🧰 Tech Stack
 
 | Tool            | Purpose                         |
