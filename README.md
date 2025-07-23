@@ -40,3 +40,9 @@ An AI-powered chatbot that can answer medical questions by processing uploaded P
    ```bash
    git clone https://github.com/YourUsername/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
    cd Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
+
+## Issues Fix command
+1 conda activate medibot
+2 conda install ipykernel --update-deps --force-reinstall
+3 python -m ipykernel install --user --name medibot --display-name "Python (medibot)"
+
